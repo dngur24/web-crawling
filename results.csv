@@ -1,0 +1,3 @@
+﻿peptide,method,score,label,error
+YCNINEVCHYARRNDKSYWL,NT15,0.11,Anti-Angiogenic,
+ACDEFGHIKLMNPQRST,NT15,-0.05,Non Anti-Angiogenic,
